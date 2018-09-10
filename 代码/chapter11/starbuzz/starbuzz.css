@@ -1,4 +1,4 @@
-body { 
+body {
   background-color: #b5a789;
   font-family:      Georgia, "Times New Roman", Times, serif;
   font-size:        small;
@@ -16,6 +16,7 @@ body {
   font-size:        105%;
   padding:          15px;
   margin:           0px 10px 10px 10px;
+    margin: 0px 330px 10px 10px;
 }
 
 #sidebar {
@@ -23,6 +24,8 @@ body {
   font-size:        105%;
   padding:          15px;
   margin:           0px 10px 10px 10px;
+    width: 280px;
+    float: right;
 }
 
 #footer {
@@ -32,6 +35,7 @@ body {
   padding:          15px;
   margin:           10px;
   font-size:        90%;
+    clear:right
 }
 
 h1 {
